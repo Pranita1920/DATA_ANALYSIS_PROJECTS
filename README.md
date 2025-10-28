@@ -55,17 +55,16 @@ Other ₹305M, B ₹134M, C ₹89M, A ₹87M, D ₹65M, E ₹45M, F ₹19M, G �
 ---
 
 ## 🧰 Tools & Technologies Used
-- **Microsoft Excel** – Data cleaning and visualization  
-- **Tableau / Power BI** – Dashboard creation and analysis  
-- **Canva / Snipping Tool** – Design and presentation enhancement
+- **Microsoft Excel** – Data cleaning 
+- **Tableau** – Dashboard creation and analysis  
 - ---
 ## 📸 Dashboard Preview
 ![Bank Analytics Dashboard](BANK_ANALYSIS.png)
 ---
 
 ## 🚀 How to Use
-1. Download the Excel or Tableau file from the repository.
-2. Open it in your BI tool (Excel / Tableau / Power BI).
+1. Download the Tableau file from the repository.
+2. Open it in your BI tool Tableau .
 3. Use the filters (State, Loan Status, Year) to interact with the visualizations.
 4. Analyze patterns in loan collection, disbursement, and performance metrics.
 ---
